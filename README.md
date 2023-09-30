@@ -25,16 +25,22 @@ Ensure you have a MongoDB instance running, and update the `MONGO_URL` according
 1. Clone this repository:
   ```sh
   git clone https://github.com/your-repo/multi-auth-starter-kit.git
+  ```
 
 2. Navigate to the project directory:
+   ```sh
   cd node-express-multi-auth-starter-kit
+  ```
 
-3. Install dependencies:
+4. Install dependencies:
+  ```sh
   npm install
+  ```
 
-4. Set up your environment variables in a .env file based on the required variables mentioned above.
+5. Set up your environment variables in a .env file based on the required variables mentioned above.
 
-5. Start the server:
+6. Start the server:
+  ```sh
   npm start
   ```
 
@@ -44,8 +50,8 @@ Ensure you have a MongoDB instance running, and update the `MONGO_URL` according
 
 ## Multi-Guard Middleware
 - This starter kit includes a multi-guard middleware that allows you to apply fine-grained access control to your routes based on user roles (user, seller, admin).
+  
 ## Contributing
-
 - Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or create a pull request.
 
 ## Acknowledgments
