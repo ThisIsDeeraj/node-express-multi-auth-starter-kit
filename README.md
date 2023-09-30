@@ -24,24 +24,24 @@ Ensure you have a MongoDB instance running, and update the `MONGO_URL` according
 
 1. Clone this repository:
   ```sh
-  git clone https://github.com/your-repo/multi-auth-starter-kit.git
+    git clone https://github.com/your-repo/multi-auth-starter-kit.git
   ```
 
 2. Navigate to the project directory:
-   ```sh
-  cd node-express-multi-auth-starter-kit
+  ```sh
+    cd node-express-multi-auth-starter-kit
   ```
 
 4. Install dependencies:
   ```sh
-  npm install
+    npm install
   ```
 
 5. Set up your environment variables in a .env file based on the required variables mentioned above.
 
 6. Start the server:
   ```sh
-  npm start
+     npm start
   ```
 
 ## Usage
