@@ -27,18 +27,16 @@ Ensure you have a MongoDB instance running, and update the `MONGO_URL` according
   git clone https://github.com/your-repo/multi-auth-starter-kit.git
 
 2. Navigate to the project directory:
-  ```sh
   cd node-express-multi-auth-starter-kit
 
 3. Install dependencies:
-  ```sh
   npm install
 
 4. Set up your environment variables in a .env file based on the required variables mentioned above.
 
 5. Start the server:
-  ```sh
   npm start
+  ```
 
 ## Usage
 - Access the API endpoints for user, seller, and admin functionality using your preferred API client (e.g., Postman).
